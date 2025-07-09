@@ -12,7 +12,7 @@ from telegram.ext import (
 )
 
 # Configuration
-BOT_TOKEN = os.getenv('7520246362:AAEDgLJ8mVJFtggPDLJzS1c3XYhgyGjYqDI')
+BOT_TOKEN = os.getenv('8194682764:AAHaEtntyLzlC3uujng9JSynVu4OnEv2Sj8')
 CHANNEL_LINK = "https://t.me/Yakstaschannel"
 GROUP_LINK = "https://t.me/yakstascapital"
 TWITTER_LINK = "https://twitter.com/bigbangdist10"
@@ -103,4 +103,4 @@ def main() -> None:
     updater.idle()
 
 if __name__ == '__main__':
-    main()]-
+    main()
